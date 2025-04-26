@@ -31,5 +31,5 @@ jobs:
 
       - name: Restore CNAME
         run: |
-          echo "q-kd.ir" > site/CNAME
+          echo "0d4y.ir" > site/CNAME
           mkdocs gh-deploy --force
