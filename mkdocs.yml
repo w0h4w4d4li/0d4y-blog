@@ -10,7 +10,7 @@ theme:
     - navigation.instant
 plugins:
   - search
-  - blog
+  # - blog
 
 nav:  
   - ~/intro/:
