@@ -1,0 +1,1 @@
+0day is my personal archive of exploration—where I document the papers and books I've read (or am about to read) in the fields of cryptography. This space evolves with my learning journey, and I occasionally share resources, insights, or hands-on experiences that might benefit others navigating similar paths. 

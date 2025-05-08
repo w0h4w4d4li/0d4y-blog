@@ -14,14 +14,6 @@ plugins:
 
 nav:  
   - ~/intro/:
-      - Quantum Cryptography: intro/qkd.md
   - ~/crypto/:
-      - Quantum Mechanics: quantum/mechanics.md
-      - Entanglement: quantum/entanglement.md
   - ~/protocols/:
-      - BB84 Protocol: impl/bb84.md
-      - B92 Protocol: impl/b92.md
-      - E91 Protocol: impl/e91.md
   - ~/documents/papers:
-      - Micius quantum experiments in space: https://arxiv.org/abs/2208.10236
-      - Satellite-to-ground quantum key distribution: https://arxiv.org/pdf/1707.00542
