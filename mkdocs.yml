@@ -3,7 +3,7 @@ site_description: Exploring Cryptography and its impact on quantum information s
 site_url: https://0d4y.ir
 
 theme:
-  name: material
+  name: terminal
   features:
     - navigation.sections
     - navigation.expand
