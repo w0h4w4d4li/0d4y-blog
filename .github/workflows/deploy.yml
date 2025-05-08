@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-        
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -24,6 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs-material
+          pip install -r ../requirements.txt
 
       - name: Build MkDocs site
         run: mkdocs build
