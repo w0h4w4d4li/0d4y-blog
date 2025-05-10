@@ -13,10 +13,17 @@ plugins:
   # - blog
 
 nav:  
-  - ~/intro/:
-      - Quantum Cryptography: intro/qkd.md
-  - ~/crypto/:
-      - Classical Cryptography: quantum/mechanics.md
+  - ~/documents/papers:
+      - New record in the number of qubits for a quantum implementation of AES: https://eprint.iacr.org/2023/018
+      - Hacking Cryptographic Protocols with Advanced Variational Quantum Attacks: https://arxiv.org/abs/2311.02986
+      - Tor, The Second-Generation Onion Router: https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
+      - Micius quantum experiments in space: https://arxiv.org/abs/2208.10236
+      - Satellite-to-ground quantum key distribution: https://arxiv.org/pdf/1707.00542
+  - ~/cryptography/:
+      - Classical Cryptography: quantum/classic-crypto.md
+      - Modern Cryptography: quantum/modern-crypto.md
+      - Post-Quantum Cryptography: quantum/pqc.md
+      - Quantum Cryptography: quantum/qc.md
   - ~/protocols/:
       - BB84 Protocol: impl/bb84.md
       - B92 Protocol: impl/b92.md
@@ -25,6 +32,7 @@ nav:
       - w1: impl/bb84.md
       - w2: impl/b92.md
       - w3: impl/e91.md
-  - ~/documents/papers:
-      - Micius quantum experiments in space: https://arxiv.org/abs/2208.10236
-      - Satellite-to-ground quantum key distribution: https://arxiv.org/pdf/1707.00542
+  - ~/usr/log/:
+      - Telegram: intro/me.md
+      - Email: mailto:w0h4w4d4li@gmail.com
+      - Github: https://github.com/w0h4w4d4li
