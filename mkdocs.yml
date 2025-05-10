@@ -13,7 +13,7 @@ plugins:
   # - blog
 
 nav:  
-  - ~/documents/papers:
+  - ~/documents/top-papers:
       - New record in the number of qubits for a quantum implementation of AES: https://eprint.iacr.org/2023/018
       - Hacking Cryptographic Protocols with Advanced Variational Quantum Attacks: https://arxiv.org/abs/2311.02986
       - Tor, The Second-Generation Onion Router: https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
@@ -33,6 +33,6 @@ nav:
       - w2: impl/b92.md
       - w3: impl/e91.md
   - ~/usr/log/:
-      - Telegram: intro/me.md
+      - Telegram: https://t.me/quantum_archive
       - Email: mailto:w0h4w4d4li@gmail.com
       - Github: https://github.com/w0h4w4d4li

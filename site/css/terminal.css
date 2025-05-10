@@ -270,6 +270,7 @@ li>ul>li {
     position: relative;
     display: block;
     padding-left: calc(var(--global-space) * 2);
+    border-bottom: 1px solid aliceblue;
 }
 
 nav>ul>li {
